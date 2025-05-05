@@ -1,6 +1,6 @@
 {
     "name": "SSV Chain",
-    "description": "SSSV Chain is a dedicated, lightweight blockchain specifically designed to scale DVT and based application (bApp) operations beyond Ethereum, enabling low-cost, multi-chain coordination.",
+    "description": "bApp for Testing - The SSV Chain is a decentralized, open-source blockchain built specifically to power SSV Network's Distributed Validators and Based Applications network.",
     "logo": "https://hoodi-metadata.vercel.app/ssvchain.png",
     "website": "https://ssv.network/"
 }
